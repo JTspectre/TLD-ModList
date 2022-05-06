@@ -5,7 +5,7 @@
 			"name": "JTspectre'sItemPack",
 			"displayName": "JTspectre's Item Pack",
 			"aliases": [],
-			"version": "1.0.0",
+			"version": "0.0.1",
 			"updated": "2022-05-05",
 			"description": "",
 			"modURL": "https://github.com/JTspectre/TLD-JTspectreItemPack",
@@ -23,60 +23,6 @@
 			],
 			"status": {
 				"working": false,
-				"issues": "",
-				"notes": ""
-			}
-		},
-		{
-			"name": "JTs2ndmod",
-			"displayName": "Foods by 'Calorie Waltz'",
-			"aliases": [],
-			"version": "0.9.6.4",
-			"updated": "2022-03-06",
-			"description": "Adds 20+ unique, delicious food and beverage items. Now with options and collectibles(optional)!<br><br>Installed by unpacking it into .../Mods/",
-			"modURL": "https://github.com/HAHAYOUDEAD/FoodsByCalorieWaltz",
-			"downloadURL": "https://github.com/HAHAYOUDEAD/FoodsByCalorieWaltz/releases/latest/download/FoodsByCalorieWaltz.zip",
-			"updater": {
-				"enable": true,
-				"downloads": []
-			},
-			"testedon": {
-				"tldversion": "1.99",
-				"mlversion": "0.4.3"
-			},
-			"dependencies": [
-				"ModComponent",
-				"ModSettings"
-			],
-			"status": {
-				"working": true,
-				"issues": "",
-				"notes": ""
-			}
-		},
-		{
-			"name": "NorthfolkClothingPack",
-			"displayName": "Northfolk Clothing Pack",
-			"aliases": [],
-			"version": "1.0.2",
-			"updated": "2021-11-01",
-			"description": "Adds 2 previously seen + 3 brand new, inspired by northern folk, craftable clothes.<br><br>It's a standard ModComponent pack, installed by dropping it into .../Mods/",
-			"modURL": "https://github.com/HAHAYOUDEAD/NorthfolkClothingPack",
-			"downloadURL": "https://github.com/HAHAYOUDEAD/NorthfolkClothingPack/releases/latest/download/NorthfolkClothingPack.modcomponent",
-			"previousAuthors": "<a href='https://github.com/nbakulev' target='_blank'>nbakulev</a>",
-			"updater": {
-				"enable": true,
-				"downloads": []
-			},
-			"testedon": {
-				"tldversion": "1.99",
-				"mlversion": "0.4.3"
-			},
-			"dependencies": [
-				"ModComponent"
-			],
-			"status": {
-				"working": true,
 				"issues": "",
 				"notes": ""
 			}
