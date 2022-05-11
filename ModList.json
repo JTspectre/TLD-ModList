@@ -5,8 +5,8 @@
 			"name": "JTspectre'sItemPack",
 			"displayName": "JTspectre's Item Pack",
 			"aliases": [],
-			"version": "0.0.1",
-			"updated": "2022-05-05",
+			"version": "1.0.1",
+			"updated": "2022-05-11",
 			"description": "",
 			"modURL": "https://github.com/JTspectre/TLD-JTspectreItemPack",
 			"downloadURL": "https://github.com/JTspectre/TLD-JTspectreItemPack/releases",
@@ -22,7 +22,7 @@
 				"ModComponent"
 			],
 			"status": {
-				"working": false,
+				"working": true,
 				"issues": "",
 				"notes": ""
 			}
